@@ -1,0 +1,170 @@
+h1{
+    color: rgb(244, 242, 248);
+    text-align: center;
+}
+header{
+    background-color: brown;
+    width: 1160px;
+    height: 1100px;
+    margin: 15px;
+    margin-left: 400px;
+    
+   
+}
+
+h2{
+    color: rgb(0, 13, 14);
+}
+body{
+    
+    
+  
+    display: flex;
+    width: 1660px;
+    height: 250px;
+    margin:auto;
+    margin-left: auto;
+
+    }
+    main{
+        background-color: white;
+        width: 809px;
+        height: 650px;
+        margin: -336px;
+        margin-left: 350px;
+        margin-right: 1px;
+        display: flex;
+        justify-content: space-around;
+        flex-direction: row-reverse;
+    
+       
+        
+    }
+   .element_style{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+   }
+    
+  
+    address{
+        
+        
+        background-color: #2c1d27;
+        width: 1160px;
+        height: 85px;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        color: #f1eef0
+       
+       
+    }
+    section address  p a{
+        color: antiquewhite;
+        display: inline-block;
+        
+       
+    }
+  
+    
+    img{
+        width: 150px;
+        height: 150px;
+        border-radius: 50%;
+        display: block;
+        margin-left: auto;
+        margin-right: auto ;
+        margin: auto;
+        font-size: medium;
+        cursor: zoom-in;
+    }
+    
+    
+    p{
+        color: aliceblue;
+        
+    }
+    section h2{
+        background-color: bisque;
+        
+        text-align: center;
+        
+        width:280px ;
+        height: 25px;
+
+    }
+    section h3{
+        background-color: bisque;
+        width: 280px;
+        height: 25px;
+        
+    }
+    #propos {
+background-color: bisque;
+        width: 280px;
+        height: 35px;
+        
+    }
+  
+   
+       
+        
+footer{
+    background-color: brown;
+    width: 150px;
+    height: 60px;
+    display: flex;
+    margin: 355px;
+    margin-left: 580px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    color: #f1eef0;
+    }
+    
+    
+    
+    section h5 {
+        background-color: bisque;
+        width: 280px;
+        height: 25px;
+    }
+    section h6{
+        background-color: bisque;
+        width: 280px;
+        height: 35px;
+        
+    }
+    #background-color{
+        width: 25px;
+        height: 25px;
+
+    }
+    #a_propos{
+        text-align: start;
+        display: block;
+       color: rgb(249, 246, 252);
+    }
+    #en_français{
+        color: rgb(245, 244, 247);
+    }
+    .en_anglais{
+        color: rgb(244, 240, 248);
+       
+        
+    }
+    #centre_interet{
+        background-color: bisque;
+        width: 278px;
+        height: 35px;
+    }
+    
+    #les_jeux{
+        color: #f1eef0;
+    }
+    #l_informatique{
+        color: rgb(239, 235, 243);
+    }
+    #le_foot{
+        color: rgb(238, 236, 240);
+    }
